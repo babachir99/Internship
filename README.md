@@ -1,7 +1,7 @@
 # Internship
 Some tools made on my internship
 For using the autoencoder make :
-""" bash
+``` bash
 cd autoencoder_local
-"""
+```
 then follow the steps on the doc;)
